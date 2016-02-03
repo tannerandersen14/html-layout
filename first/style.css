@@ -1,0 +1,19 @@
+.main-page {
+  width: 100%;
+  height: 100%;
+  background-color: silver;
+}
+.top-header {
+  width: 100%;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.body-page {
+  width: 60%;
+  height: 600px;
+  background-color: white;
+  position: relative;
+  align-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
