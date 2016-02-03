@@ -1,0 +1,57 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.underlay {
+  height: auto;
+  width: auto;
+  background-color: white;
+}
+.header {
+    height: 175px;
+    width: 100%;
+    background-color: silver;
+    padding-top: 10px;
+}
+.small-blue {
+  height: 155px;
+  width: 155px;
+  background-color: rgba(0, 70, 255, 0.73);
+  margin-left: 20px;
+}
+.body-page {
+  height: 400px;
+  width: 100%;
+  background-color: white;
+  text-align: left;
+  padding-top: 35px;
+}
+.text {
+  font-size: 30px;
+  font-family: sans-serif;
+  padding-top: 50px;
+  color: #2f4f4f;
+  margin-left: 3.5%;
+}
+.blue {
+  height: 150px;
+  width: 100%;
+  background-color: rgba(0, 70, 255, 0.73);
+}
+.teal {
+    height: 150px;
+    width: 100%;
+    background-color: rgba(0, 128, 128, 0.78);
+}
+.beige {
+    height: 150px;
+    width: 100%;
+    background-color: rgba(205, 220, 57, 0.73);
+}
+.gold {
+  height: 150px;
+  width: 100%;
+  background-color: gold;
+}

@@ -1,0 +1,18 @@
+.blue {
+  background-color: #89cff0;
+  height: 800px;
+  width: 34%;
+  display: inline-block;
+}
+.green {
+  background-color: #54ff9f;
+  height: 800px;
+  width: 30%;
+  display: inline-block;
+}
+.yellow {
+  background-color: #e5e500;
+  height: 800px;
+  width: 34%;
+  display: inline-block
+}
